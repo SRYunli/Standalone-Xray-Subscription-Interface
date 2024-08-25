@@ -1,0 +1,10 @@
+links:
+  - uuid: "748bf91e-ddcf-48bb-8090-7b4e1a053bc1"
+    vless_links:
+      - "vless://748bf91e-ddcf-48bb-8090-7b4e1a053bc1@a.example.com:443?security=reality&encryption=none&pbk=qNYQmkKRzybylAXJ7DBPYa7iBR6RUbfD99BC1MweBx8&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=dest-a.example.com&sid=a7cdf7b9#Example+Node+A"
+      - "vless://748bf91e-ddcf-48bb-8090-7b4e1a053bc1@b.example.com:443?security=reality&encryption=none&pbk=qNYQmkKRzybylAXJ7DBPYa7iBR6RUbfD99BC1MweBx8&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=dest-b.example.com&sid=a7cdf7b9#Example+Node+B"
+  - uuid: "6fb3fee9-e805-4a91-9674-b2881f23ac81"
+    vless_links:
+      - "vless://6fb3fee9-e805-4a91-9674-b2881f23ac81@a.example.com:443?security=reality&encryption=none&pbk=qNYQmkKRzybylAXJ7DBPYa7iBR6RUbfD99BC1MweBx8&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=dest-a.example.com&sid=a7cdf7b9#Example+Node+A"
+      - "vless://6fb3fee9-e805-4a91-9674-b2881f23ac81@b.example.com:443?security=reality&encryption=none&pbk=qNYQmkKRzybylAXJ7DBPYa7iBR6RUbfD99BC1MweBx8&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=dest-b.example.com&sid=a7cdf7b9#Example+Node+B"
+
